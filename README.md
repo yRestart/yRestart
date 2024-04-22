@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatlind aka restart</h1>
 
-<p align="center">- 🔭 I’m currently working on a Student Management System</p>
+<p align="center">- 🔭 I’m currently working on a building a home lab</p>
 
 <p align="center">- 🌱 I’m currently learning Lua scripting, Pentesting, Java</p>
 

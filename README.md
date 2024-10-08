@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatlind aka restart</h1>
 
-<p align="center">- 🔭 I’m currently working on a building a home lab</p>
+<p align="center">- 🔭 I’m currently working on a building a home lab and programming random little things I find interesting.</p>
 
-<p align="center">- 🌱 I’m currently learning Lua scripting, Pentesting, Java</p>
+<p align="center">- 🌱 I’m currently attending WGU for Computer Science: Cybersecurity</p>
 
 <p align="center">- 💬 Ask me about anything :)</p>
 
